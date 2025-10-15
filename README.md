@@ -1,4 +1,4 @@
-# Spark-Symbolics-Neuromorphics
+# Spark-Symbolics+Neuromorphics
 
 ### Integrating Symbolic AI Programming and Neuromorphic Computing for Edge Labs with NVIDIA DGX Spark 
 
