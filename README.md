@@ -9,4 +9,4 @@
  - [DGX Spark User Guide](https://docs.nvidia.com/dgx/dgx-spark/dgx-spark.pdf)
  - [AI Lab Software Installations](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/SparkAILabSoftwareInstallations.md)
 
- - [Qwen3-coder {Spark} Session: Reasoning with SNOWMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
+ - [Qwen3-coder {Spark} Session: Reasoning with SNOMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
