@@ -11,13 +11,13 @@
    - *export JAVA_HOME=usr/lib/jvm/java-21-openjdk-arm64*
    - *export PATH=$PATH:$JAVA_HOME/bin*
 
-- *owlready2* - Python library for integrating OWL Ontologies: https://pypi.org/project/owlready2/ - *sudo pip install owlready2*
+- *owlready2* - Python library for integrating OWL Ontologies: https://pypi.org/project/owlready2/ - *pip install owlready2*
 
  - +*CLIPS* symbolic programing language - compilable 6.41 binaries/source (follow Linux build instructions): https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.1/ - CLIPSJNI launch: *java -Djava.library.path= -jar CLIPSIDE.jar*
    
  - +*Arduino IDE 1.8.19 (ARM64)* - https://downloads.arduino.cc/arduino-1.8.19-linuxaarch64.tar.xz
  
- - +*Jupyter* - <ins>not</ins> part of JetPack 7 BSP - *sudo apt install jupyter-core*
+ - *Jupyter* - <ins>not</ins> part of JetPack 7 BSP - *sudo apt install jupyter-core*
 
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
