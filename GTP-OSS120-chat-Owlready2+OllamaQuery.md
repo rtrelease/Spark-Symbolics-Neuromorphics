@@ -1,4 +1,4 @@
-## GPT-OSS 120B phython Owlready2 Ollama Llama frontend for using neurofma-fma3.owl ontology
+## GPT-OSS 120B Python Owlready2 Ollama Llama frontend for using neurofma-fma3.owl ontology
 
 ### USER
 Make python coding recommendations with owlready2 for using an Ollama Server running Llama LLM as a front end for searching an OWL ontology named neurofma_fma3.owl
