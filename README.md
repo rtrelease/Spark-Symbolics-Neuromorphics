@@ -11,7 +11,7 @@
   
  - [AI Lab Software Installations](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/SparkAILabSoftwareInstallations.md) - in testing - [AI Lab Notes Archive](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics)
 
-#### The Spark AImanuensis Vibe
+#### The Spark AImanuensis *Vibe*
  
  - [Qwen3-coder {Spark} Session: Reasoning with SNOMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
 
