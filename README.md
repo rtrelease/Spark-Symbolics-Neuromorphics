@@ -11,12 +11,11 @@
   
  - [AI Lab Software Installations](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/SparkAILabSoftwareInstallations.md) - in testing - [AI Lab Notes Archive](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics)
 
-#### The Spark [AImanuensis]() *Vibe*
+#### The Spark AI[manuensis](https://en.wikipedia.org/wiki/Amanuensis) *Vibe*
  
  - [Qwen3-coder {Spark} Session: Reasoning with SNOMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
 
  - [Qwen3-coder Session: Python Owlready code for using Ollama Llama as a front end for searching and interrogating neurofma_fma3.0.owl](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/qwen3-coderchat-NeuroFMAOntologywithLlama.md)
-
 
  - [GPT-OSS 120b - Python Owlready2 code for Using FMA.owl with Ollama Llama LLMs](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-Owlready+OllamaDemo.md)
 
