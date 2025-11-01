@@ -14,7 +14,7 @@
  - [Qwen3-coder Session: Python Owlready code for using Ollama Llama as a front end for searching and interrogating neurofma_fma3.0.owl](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/qwen3-coderchat-NeuroFMAOntologywithLlama.md)
 
 
- - [GPT-OSS 120b - Python Owlready2 code for Using FMA.owl with Ollama and Llama LLMs](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-Owlready+OllamaDemo.md)
+ - [GPT-OSS 120b - Python Owlready2 code for Using FMA.owl with Ollama Llama LLMs](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-Owlready+OllamaDemo.md)
 
  - [GPT-OSS 120b Session Using ACT-R cognitve models with local Llama LLMs on Ollama Server](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-ACT%E2%80%91R%26LlamaBridge.md)
 
