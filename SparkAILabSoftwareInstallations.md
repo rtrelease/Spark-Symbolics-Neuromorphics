@@ -17,7 +17,7 @@
    
  - +*Arduino IDE 1.8.19 (ARM64)* - https://downloads.arduino.cc/arduino-1.8.19-linuxaarch64.tar.xz
  
- - *JupyterLab* - part of JetPack 7 BSP - launched via DGX Dashboard application in Linux Apps,, Windows or Mac Apps - https://docs.nvidia.com/dgx/dgx-spark/dgx-dashboard.html
+ - *JupyterLab* - part of JetPack 7 BSP - launched via **DGX Dashboard** application in Ubuntu Apps or as installed on Linux, Windows or MacOs systems - https://docs.nvidia.com/dgx/dgx-spark/dgx-dashboard.html
 
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
