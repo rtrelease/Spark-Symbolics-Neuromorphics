@@ -11,6 +11,9 @@
 
  - [Qwen3-coder {Spark} Session: Reasoning with SNOMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
 
+
+
+
  - [GPT-OSS 120b - Python Owlready2 code for Using FMA.owl with Ollama and Llama LLMs](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-Owlready+OllamaDemo.md)
 
  - [GPT-OSS 120b Session Using ACT-R cognitve models with local Llama LLMs on Ollama Server](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-ACT%E2%80%91R%26LlamaBridge.md)
