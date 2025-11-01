@@ -24,6 +24,10 @@
 ![image](https://github.com/user-attachments/assets/b958e931-e320-4ab9-9902-9a5610857310)
 
 <p align="center">
+<img src="https://github.com/user-attachments/assets/29a8d82b-7b92-4cfe-bcaf-c3d3ecb36b70" width=30% height=30% />
+</p>
+
+<p align="center">
 <img width="977" height="191" alt="image" src="https://github.com/user-attachments/assets/7bca49d4-f8c4-4bb5-8246-c4c273315e0a" />
 </p>
 
