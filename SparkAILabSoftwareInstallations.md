@@ -11,7 +11,7 @@
    - *export JAVA_HOME=usr/lib/jvm/java-21-openjdk-arm64*
    - *export PATH=$PATH:$JAVA_HOME/bin*
 
-- *owlready2* - Python library for integrating OWL Ontologies: https://pypi.org/project/owlready2/ - *pip install owlready2*
+- +*owlready2* - Python library for integrating OWL Ontologies: https://pypi.org/project/owlready2/ - *pip install owlready2*
 
  - +*CLIPS* symbolic programing language - compilable 6.41 binaries/source (follow Linux build instructions): https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.1/ - CLIPSJNI launch: *java -Djava.library.path= -jar CLIPSIDE.jar*
    
