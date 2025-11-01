@@ -24,6 +24,7 @@
 ![image](https://github.com/user-attachments/assets/b958e931-e320-4ab9-9902-9a5610857310)
 
 <p align="center">
-<img width="977" height="191" alt="image" src="https://github.com/user-attachments/assets/b958e931-e320-4ab9-9902-9a5610857310" />
+<img width="977" height="191" alt="image" src="https://github.com/user-attachments/assets/7bca49d4-f8c4-4bb5-8246-c4c273315e0a" />
+ " />
 </p>
 
