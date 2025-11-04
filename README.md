@@ -13,7 +13,7 @@
 
 #### The Spark AI[manuensis](https://en.wikipedia.org/wiki/Amanuensis) *Vibe*: Accelerating Neurosymbolic Development
  
- - [Qwen3-coder {Spark} Session - Reasoning with SNOMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
+ - [Qwen3-coder Session - Reasoning with SNOMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
 
  - [Qwen3-coder Session - Python Owlready code for using Ollama Llama as a front end for searching and interrogating neurofma_fma3.0.owl](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/qwen3-coderchat-NeuroFMAOntologywithLlama.md)
 
