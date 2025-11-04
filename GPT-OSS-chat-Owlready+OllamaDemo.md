@@ -1,4 +1,4 @@
-## GPT-OSS 120b Python for using Owlready2 and FMA Ontology with Ollama Llama LLM
+## GPT-OSS 120B Python for using Owlready2 and FMA Ontology with Ollama Llama LLM
 
 ### USER
 Recommend python code for using owlready2 with a local ollama llama LLM with fma.owl large ontology.
