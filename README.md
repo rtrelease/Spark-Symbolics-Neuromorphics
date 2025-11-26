@@ -10,7 +10,7 @@
   
  - [AI Lab Software Installations](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/SparkAILabSoftwareInstallations.md) - in testing - [AI Lab Notes Archive](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics)
 
-#### The Spark AI[manuensis](https://en.wikipedia.org/wiki/Amanuensis) [*Vibe*](https://en.wikipedia.org/wiki/Vibe_coding) *Editor*: Accelerating Neurosymbolic Research and Development
+#### The Spark AI[manuensis](https://en.wikipedia.org/wiki/Amanuensis) [*'Vibe*](https://en.wikipedia.org/wiki/Vibe_coding) *Editork*: Accelerating Neurosymbolic Research and Development
  
  - [Qwen3-coder Session - Reasoning with SNOMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
 
