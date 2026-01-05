@@ -19,7 +19,7 @@
  
  - +*JupyterLab*  - launched via **DGX Dashboard** application in Ubuntu Apps (or as installed on other Ubuntu systems - https://docs.nvidia.com/dgx/dgx-spark/dgx-dashboard.html
 
- - +*Anaconda-navigator* - https://docs.nvidia.com/dgx/dgx-spark/dgx-dashboard.html
+ - +*Anaconda-navigator* - [Anaconda Blog - Python on DGX Spark](https://www.anaconda.com/blog/python-nvidia-dgx-spark-first-impressions)
 
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
@@ -42,7 +42,7 @@
 
 **Scientific Programming Language** - MatLab compatible
 
- - +*GNU Octave* - https://wiki.octave.org/Octave_for_Debian_systems:   *apt install octave*
+ - +*GNU Octave* - https://wiki.octave.org/Octave_for_Debian_systems:   *sudo apt install octave*
 
 **Large-scale biological neuron network modeling including spiking neurons**
  - +*Nengo* large scale brain modeling in Python - https://github.com/nengo/nengo: *pip install nengo*
