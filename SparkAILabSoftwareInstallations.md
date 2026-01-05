@@ -19,7 +19,7 @@
  
  - +*JupyterLab*  - launched via **DGX Dashboard** application in Ubuntu Apps (or as installed on other Ubuntu systems - https://docs.nvidia.com/dgx/dgx-spark/dgx-dashboard.html
 
- - +*Anaconda-navigator* -> Python Management - [Anaconda Blog - Python on DGX Spark](https://www.anaconda.com/blog/python-nvidia-dgx-spark-first-impressions) - [ARM64 Full Anaconda](https://repo.anaconda.com/archive/Anaconda3-2025.12-1-Linux-aarch64.sh)
+ - +*Anaconda-navigator* -> Python Management -- [Anaconda Blog - Python on DGX Spark](https://www.anaconda.com/blog/python-nvidia-dgx-spark-first-impressions) - [ARM64 Full Anaconda](https://repo.anaconda.com/archive/Anaconda3-2025.12-1-Linux-aarch64.sh)
 
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
