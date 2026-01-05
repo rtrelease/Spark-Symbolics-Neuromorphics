@@ -10,7 +10,7 @@
   
  - [AI Lab Software Installations](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/SparkAILabSoftwareInstallations.md) - in testing - [AI Lab Notes Archive](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics)
 
-#### The Nengo "Brain Maker" and [The Neural Engineering Framework](https://compneuro.uwaterloo.ca/files/publications/stewart.2012d.pdf) -- From Deep Neural Networks to Neuromorphic and Hybrid Computing Models
+#### The [Nengo](https://www.nengo.ai/getting-started/) "Brain Maker" and [The Neural Engineering Framework](https://compneuro.uwaterloo.ca/files/publications/stewart.2012d.pdf) -- From Deep Neural Networks to Neuromorphic and Hybrid Computing Models
 
 #### The Spark AI[manuensis](https://en.wikipedia.org/wiki/Amanuensis) -- Research-based [*'Vibe'*](https://en.wikipedia.org/wiki/Vibe_coding) [*Editing*](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Ollama101.md) for Accelerating Neurosymbolic Research and Development
  
