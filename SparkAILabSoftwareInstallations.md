@@ -19,6 +19,8 @@
  
  - +*JupyterLab*  - launched via **DGX Dashboard** application in Ubuntu Apps (or as installed on other Ubuntu systems - https://docs.nvidia.com/dgx/dgx-spark/dgx-dashboard.html
 
+ - +*Anaconda-navigator* - https://docs.nvidia.com/dgx/dgx-spark/dgx-dashboard.html
+
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
 **Scientific Image Processing**
@@ -36,7 +38,7 @@
    
 **Finite-State Machines**
 
- - *Python State Machine library* pip install: https://pypi.org/project/python-statemachine/: *sudo pip install python-statemachine*
+ - *Python State Machine library* pip install: https://pypi.org/project/python-statemachine/: *pip install python-statemachine*
 
 **Scientific Programming Language** - MatLab compatible
 
