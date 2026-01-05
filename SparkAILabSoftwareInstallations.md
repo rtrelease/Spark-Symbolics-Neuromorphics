@@ -40,9 +40,9 @@
 
 **Scientific Programming Language** - MatLab compatible
 
- - +*GNU Octave* - https://wiki.octave.org/Octave_for_Debian_systems:    *sudo apt install octave*
+ - +*GNU Octave* - https://wiki.octave.org/Octave_for_Debian_systems:   *apt install octave*
 
 **Large-scale biological neuron network modeling including spiking neurons**
- - *Nengo* large scale brain modeling in Python - https://github.com/nengo/nengo: *pip install nengo*
+ - +*Nengo* large scale brain modeling in Python - https://github.com/nengo/nengo: *pip install nengo*
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7348185-10ce-4232-910d-b1bef089c9fa" />
