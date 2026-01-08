@@ -2,7 +2,7 @@
 
 #### DGX Spark Symbolics + Neomorphics Software Installations - *testing in process*
 
-**Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions for DGX Spark DGX-OS base software**
+**Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions for DGX OS base software**
 
  - +*OpenJDK* Java Base -  *sudo apt install default-jdk*  **= Java 21**
 
