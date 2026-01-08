@@ -12,6 +12,8 @@
 
 #### [Nengo](https://www.nengo.ai/getting-started/) "Brain Maker" and [The Neural Engineering Framework](https://compneuro.uwaterloo.ca/files/publications/stewart.2012d.pdf) -- From Deep Neural Networks to Neuromorphic and Hybrid Computing Models with Python [on DGX Spark](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/Nengo0.md) | [GitHub Archive](https://github.com/nengo/nengo)
 
+ - [GPT-OSS 120B Session - ]( )
+
 #### The Spark AI[manuensis](https://en.wikipedia.org/wiki/Amanuensis) -- Research-based [*'Vibe'*](https://en.wikipedia.org/wiki/Vibe_coding) [*Editing*](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Ollama101.md) for Accelerating Neurosymbolic Research and Development
  
  - [Qwen3-coder Session - Reasoning with SNOMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
