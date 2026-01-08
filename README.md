@@ -18,7 +18,7 @@
  
  - [Qwen3-coder Session - Reasoning with SNOMED-CT and Large Ontologies with Ollama Local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
 
- - [Qwen3-coder Session - Python Owlready code for using Ollama Llama as a Front-end for Searching and Interrogating neurofma_fma3.0.owl](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/qwen3-coderchat-NeuroFMAOntologywithLlama.md)
+ - [Qwen3-coder Session - Python Owlready code for Using Ollama Llama as a Front-end for Searching and Interrogating neurofma_fma3.0.owl](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/qwen3-coderchat-NeuroFMAOntologywithLlama.md)
 
  - [GPT-OSS 120B Session - Python Owlready2 Code for Using FMA.owl with Ollama Llama LLMs](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-Owlready+OllamaDemo.md)
 
