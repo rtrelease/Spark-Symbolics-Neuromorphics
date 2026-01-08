@@ -48,4 +48,4 @@
  - +*Nengo* large scale brain modeling in Python - https://github.com/nengo/nengo: *pip install nengo* -->
  best installed to (base) in an Anaconda managed environment
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7348185-10ce-4232-910d-b1bef089c9fa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19d4c310-14e8-423b-99b6-c4d96ddb09f9" />
