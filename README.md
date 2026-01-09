@@ -25,7 +25,7 @@
  - [GPT-OSS 120B Session - Using ACT-R Cognitive Models with Local Llama LLMs on Ollama Server](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-ACT%E2%80%91R%26LlamaBridge.md)
 
 
-Ollama sessions, editing, and GitHub archive management using iPad mini A17 Pro
+==> Ollama sessions, editing, and GitHub archive management using iPad mini A17 Pro
 ![image](https://github.com/user-attachments/assets/b958e931-e320-4ab9-9902-9a5610857310)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/29a8d82b-7b92-4cfe-bcaf-c3d3ecb36b70" width=30% height=30% />
