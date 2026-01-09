@@ -44,7 +44,7 @@
 
  - +*GNU Octave* - https://wiki.octave.org/Octave_for_Debian_systems:   *sudo apt install octave*
 
-**Large-scale biological neuron network modeling including spiking neurons**
+**Large-scale biological neuron network modeling including spiking on GPUs**
  - +*Nengo* large scale brain modeling in Python - https://github.com/nengo/nengo: *pip install nengo* -->
  best installed to (base) in an Anaconda managed environment
 
