@@ -49,3 +49,5 @@
  best installed to (base) in an Anaconda managed environment
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71df1158-6a42-4006-812e-7e364fea25f3" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a28ddbca-9021-44ff-8c66-6bdf174a66f9" />
