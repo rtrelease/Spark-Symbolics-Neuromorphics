@@ -8,7 +8,7 @@
   
  - [DGX Spark User Guide](https://docs.nvidia.com/dgx/dgx-spark/dgx-spark.pdf)
   
- - [AI Lab Software Installations](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/SparkAILabSoftwareInstallations.md) - in testing - [AI Lab Notes Archive](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics)
+ - [AI Lab Software Installations](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/SparkAILabSoftwareInstallations.md) - - [AI Lab Notes Archive](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics)
 
 #### [Nengo](https://www.nengo.ai/getting-started/) "Brain Maker" and [The Neural Engineering Framework](https://compneuro.uwaterloo.ca/files/publications/stewart.2012d.pdf) -- From Deep Neural Networks to Neuromorphic and Hybrid Computing Models with Python [on DGX Spark](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/Nengo0.md) | [GitHub Archive](https://github.com/nengo/nengo)
 
