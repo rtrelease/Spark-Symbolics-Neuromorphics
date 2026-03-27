@@ -16,6 +16,9 @@
 
  - [ Qwen3-vl:30B Session - Neuromorphic Computing Overview and Nengo Neural Network Modeling with Local Ollama Llava Front-end and Open-WebUI](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Qwen3-vl-Spark-chat-NewChat33.md)
 
+ - [ Qwen3-vl:30B Session 2 Redux - Neuromorphic Computing Overview and Nengo Neural Network Modeling with Local Ollama Llava Front-end and Open-WebUI](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Qwen3-vl30B-Spark-chat-Brain-Inspired-Computing%F0%9F%A7%A06.md)
+
+
 #### The Spark AI[manuensis](https://en.wikipedia.org/wiki/Amanuensis) -- Research-based [*'Vibe'*](https://en.wikipedia.org/wiki/Vibe_coding) [*Editing*](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Ollama101.md) for Accelerating Neurosymbolic Research and Development
  
  - [Qwen3-coder Session - Reasoning with SNOMED-CT and Large Ontologies with Ollama Local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
