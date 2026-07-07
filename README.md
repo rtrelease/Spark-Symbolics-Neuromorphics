@@ -31,6 +31,7 @@
 
 #### Computational Synesthesia
 
+ -
 
  ==> Ollama sessions, editing, and GitHub archive management using iPad mini A17 Pro
 ![image](https://github.com/user-attachments/assets/b958e931-e320-4ab9-9902-9a5610857310)
