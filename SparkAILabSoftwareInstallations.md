@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### DGX Spark Symbolics + Neomorphics Software Installations - *testing continues
+#### DGX Spark Symbolics + Neomorphics Software Installations - *testing continues*
 
 **Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions for DGX OS base software**
 
