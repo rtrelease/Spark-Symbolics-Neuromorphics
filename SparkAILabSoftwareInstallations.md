@@ -51,6 +51,8 @@
 **Ollama Open Source LLM Server and Agent Integrator**
  - *Ollama* Home - https://ollama.com/  ---> curl -fsSL https://ollama.com/install.sh | sh
 
+**NVIDIA Recommended Container Host Ollama with Open-WebUi**
+ - https://build.nvidia.com/spark/open-webui
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71df1158-6a42-4006-812e-7e364fea25f3" />
