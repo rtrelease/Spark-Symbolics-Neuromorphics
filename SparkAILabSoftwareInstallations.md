@@ -49,7 +49,7 @@
  best installed to (base) in an Anaconda managed environment
 
 **Ollama Open Source LLM Server and Agent Integrator**
- - *Ollama* Home - https://ollama.com/  -> curl -fsSL https://ollama.com/install.sh | sh
+ - *Ollama* Home - https://ollama.com/  ---> curl -fsSL https://ollama.com/install.sh | sh
 
 
 
