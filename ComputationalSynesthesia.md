@@ -9,4 +9,4 @@
  - [Ornith-35b-7920](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Ornith-35b-7920-%F0%9F%92%BB-ComputationalSynesthesiaExplained2.md)
 
 
- - [Qwen 3.6](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-6-Thor-%F0%9F%A7%A0%20Understanding%20Computational%20Synesthesia%202.md)
+ - [Qwen 3.6-Thor](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-6-Thor-%F0%9F%A7%A0%20Understanding%20Computational%20Synesthesia%202.md)
