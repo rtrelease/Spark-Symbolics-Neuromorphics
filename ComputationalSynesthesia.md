@@ -7,3 +7,6 @@
  - [Gemma4-7920](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Clone%20of%20Clone%20of%20Gemma4-31-7920-Understanding%20Computational%20Synesthesia%F0%9F%A7%A0%205.md)
 
  - [Ornith-35b-7920](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Ornith-35b-7920-%F0%9F%92%BB-ComputationalSynesthesiaExplained2.md)
+
+
+ - [Qwen 3.6](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-6-Thor-%F0%9F%A7%A0%20Understanding%20Computational%20Synesthesia%202.md)
