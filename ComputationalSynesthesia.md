@@ -13,4 +13,6 @@
 
  - [Qwen 3.6-7920](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-6-7920-%F0%9F%A7%A0UnderstandingComputationaSynesthesia.md)
 
+ - [Nemotron 3 ](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Nemotron3-33-7920-Article-%F0%9F%A7%A0SynestheticLLM-Sonification%F0%9F%A7%A0.md)
+ 
  - [Gemma4-7920-Computational Synesthesia Article](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Gemma4-7920-SonifyingLargeLanguageModels%F0%9F%8E%A7%202.md)
