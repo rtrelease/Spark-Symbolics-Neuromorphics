@@ -40,9 +40,11 @@
  ==> Ollama sessions, editing, and GitHub archive management using iPad mini A17 Pro
 ![image](https://github.com/user-attachments/assets/b958e931-e320-4ab9-9902-9a5610857310)
 
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/29a8d82b-7b92-4cfe-bcaf-c3d3ecb36b70" width=30% height=30% />
 </p>
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/43214b0a-59d2-4dfd-9f73-01b9640b8d7e" width=30% height=30% />
 </p>
