@@ -33,13 +33,12 @@
 
  - [Gemma4 - What is Computational synesthesia?](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/ComputationalSynesthesia.md)
 
- ==> Ollama sessions, editing, and GitHub archive management using iPad mini A17 Pro
-![image](https://github.com/user-attachments/assets/b958e931-e320-4ab9-9902-9a5610857310)
-
 #### Diffusion System and Visual Generative 
 
 <img width="1133" height="744" alt="image" src="https://github.com/user-attachments/assets/f851e67f-40b1-4260-aaf5-5be83a7fc4e3" />
 
+ ==> Ollama sessions, editing, and GitHub archive management using iPad mini A17 Pro
+![image](https://github.com/user-attachments/assets/b958e931-e320-4ab9-9902-9a5610857310)
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/29a8d82b-7b92-4cfe-bcaf-c3d3ecb36b70" width=30% height=30% />
