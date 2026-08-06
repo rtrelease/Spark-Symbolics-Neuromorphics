@@ -39,8 +39,7 @@
 <img width=70% height=70% alt="image" src="https://github.com/user-attachments/assets/f851e67f-40b1-4260-aaf5-5be83a7fc4e3" />
 </p>
 
-
- ==> Ollama sessions, editing, and GitHub archive management using iPad mini A17 Pro
+#### Ollama sessions, editing, and GitHub archive management using iPad mini A17 Pro
 ![image](https://github.com/user-attachments/assets/b958e931-e320-4ab9-9902-9a5610857310)
 
 
