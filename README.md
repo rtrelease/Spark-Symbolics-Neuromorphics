@@ -33,7 +33,7 @@
 
  - [Gemma4 - What is Computational synesthesia?](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/ComputationalSynesthesia.md)
 
-#### Diffusion System and Generative Systems
+#### Diffusion and Generative Visual Systems
 
 <p align="center">
 <img width=70% height=70% alt="image" src="https://github.com/user-attachments/assets/f851e67f-40b1-4260-aaf5-5be83a7fc4e3" />
