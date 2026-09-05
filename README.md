@@ -31,7 +31,7 @@
 
 #### Computational Synesthesia
 
- - [Gemma4 - What is Computational synesthesia?](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/ComputationalSynesthesia.md)
+ - [Gemma 4 - What is Computational synesthesia?](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics/blob/main/ComputationalSynesthesia.md)
 
 #### Diffusion and Generative Visual Systems
 
