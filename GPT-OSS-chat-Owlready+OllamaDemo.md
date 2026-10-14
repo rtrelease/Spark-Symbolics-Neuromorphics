@@ -20,6 +20,7 @@ Recommend python code for using owlready2 with a local ollama llama LLM with fma
 > 
 > Will produce final answer with code and explanation.
 </details>
+
 Below is a **complete, runnable example** that shows how you can
 
 1. **Load the large FMA (Foundational Model of Anatomy) ontology** with `owlready2`.
