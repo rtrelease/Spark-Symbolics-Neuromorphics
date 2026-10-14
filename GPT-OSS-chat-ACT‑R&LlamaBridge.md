@@ -22,6 +22,7 @@ Propose programming methods for using ACT-R cognitive models with Llama type LLM
 > 
 > Now produce final answer.
 </details>
+
 Below is a **practical, step‑by‑step guide** for wiring an **ACT‑R cognitive model** to a **Llama‑type LLM** that you run locally through the **Ollama server**.  
 The focus is on **programming methods** (architectures, APIs, code patterns) rather than theory, so you can copy‑paste the snippets, adapt them to your own model, and start experimenting today.
 
